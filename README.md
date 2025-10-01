@@ -13,7 +13,7 @@ Opens Discord in a visible browser (you log in once), scrolls the channel, parse
 - `message_id` – Discord message id  
 
 ---
-## Disclaimer!!
+## Disclaimer!!!
 
 - Educational use only. This script is provided “as is,” without warranties.
 - You are solely responsible for how you use it. Any misuse, disruption, or violation of server rules, Discord’s Terms, or law is your responsibility.
